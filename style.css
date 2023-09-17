@@ -1,0 +1,73 @@
+
+
+
+/* 
+font-family: 'Comfortaa', cursive;
+font-family: 'Quicksand', sans-serif;
+
+*/
+body {
+    color: #2a2438;
+    background-color: #fff1e6;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: #f8e7e7;
+    font-size: 80px;
+    text-align: left;
+    text-shadow: 0 4px 10px rgb(49, 49, 49);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 60px;
+    margin: 0;
+}
+
+h2 {
+    color: #2a2438;
+    background-color: #a070a1;
+    background: local;
+    font-family: 'Comfortaa', cursive;
+    margin-left: 15%;
+    font-size: 35px;
+
+}
+
+h3 {
+    color: #2a2438;
+    font-size: 20px;
+}
+
+.hlavicka {
+    background-color: #724060;
+    margin: 0;
+}
+
+.mojefoto {
+    border: 10px solid #f8e7e7;
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 40px 10px 10px 30px;
+}
+
+.kontakty {
+    background-color: #a070a1;
+    border: #2a2438;
+    border-width: 10px;
+    float: left;
+    margin-top: 160px;
+    margin-left: 10px;
+    padding-left: 0;
+
+}
+
+.kontakty img {
+    width: 25px;
+
+
+} 
