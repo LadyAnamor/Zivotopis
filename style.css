@@ -10,7 +10,7 @@ body {
     font-size: 18px;
     line-height: 1.5;
     margin: 0;
-    padding-left: 5px;
+    padding-left: 10px;
 }
 
 
@@ -103,6 +103,11 @@ h3 {
 .udaje img {
     width: 25px;
     padding-left: 5px;
+}
+
+.soc {
+    padding-left: 5px;
+
 }
 
 .site {
