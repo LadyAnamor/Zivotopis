@@ -97,13 +97,16 @@ h3 {
 }
 
 .udaje {
-    border: solid 4px #724060; 
+    border: solid 4px #724060;
 }
 
 .udaje img {
     width: 25px;
     padding-left: 5px;
-    padding-top: 5px;
+}
+
+.site {
+    text-align: center;
 }
 
 .vzdelani {
